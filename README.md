@@ -22,8 +22,9 @@
 2. [🛠️ Development Tools](#%EF%B8%8F-development-tools)
 3. [🔒 Hosting & Security](#-hosting--security)
 4. [🌐 Web Optimization & Monitoring](#-web-optimization--monitoring)
-5. [📚 E-Books](#-e-books)
-6. [🎓 Courses](#-courses)
+5. [🤖 AI Tools](#-ai-tools)
+6. [📚 E-Books](#-e-books)
+7. [🎓 Courses](#-courses)
 
 
 ## 🔧 UI Kits / Libraries / Boilerplates
@@ -46,18 +47,11 @@
 
 |     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
 |-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
-| 1  | [DocuWriter](https://www.docuwriter.ai/) | Generate documentation, refactors, and tests from code using AI. | 40% OFF first purchase with `ORXLVNZV` | Now – 1-Dec |
-| 2  | [Meku](https://meku.dev/) | Prompt-based full-stack web app builder powered by AI. | 30% OFF + Free FormBold Starter (`BLFCM2025`) | 18-Nov – 2-Dec |
-| 3  | [AIStarterKit](https://aistarterkit.dev/) | Boilerplate to launch AI apps fast with Next.js and OpenAI. | 30% OFF or Free with SaaSBold | 18-Nov – 22-Dec |
-| 4  | [AymoAI](https://aymo.ai/) | All-in-one workspace with AI to think, write, and collaborate smarter. | 30% OFF Yearly Premium (`BLFCM2025`) | 18-Nov – 2-Dec |
-| 5  | [Dorik](https://dorik.com/) | No-code + AI website builder for landing pages and blogs. | 50% OFF with `BFCM25` | 14-Nov – 3-Dec |
-| 6  | [Mailmodo](https://www.mailmodo.com/) | Build and automate interactive emails with AI. | 30% OFF with `MMBF30` | 24-Nov – 6-Dec |
-| 7  | [Codebit](https://codebit.xyz/) | Turn code snippets into animated videos for sharing. | 50% OFF with `BLACKFRIDAY25` | Now – |
-| 8  | [LetterMint](https://lettermint.co/) | GDPR-compliant email service for transactional emails. | 30% OFF for 6 months (`BF2025`) | Now – 5-Dec |
-| 9  | [Mailtrap](https://mailtrap.io/) | Platform for testing and sending reliable emails. | 40% OFF with `TRAP40BF` | 24-Nov – 5-Dec |
-| 10 | [MailerLite](https://www.mailerlite.com/) | Easy email automation and landing pages for startups. | 25% OFF annual plans | 18-Nov – 16-Dec |
-| 11 | [Mailchimp](https://mailchimp.com/) | AI-powered marketing automation platform. | 40% OFF with `MCBF2025` | 25-Nov – 30-Nov |
-| 12 | [Warmy](https://www.warmy.io/) | Improve email deliverability with AI-powered warm-up. | 30% OFF with `WARMBF30` | 22-Nov – 4-Dec |
+| 1  | [Codebit](https://codebit.xyz/) | Turn code snippets into animated videos for sharing. | 50% OFF with `BLACKFRIDAY25` | Now – |
+| 2  | [LetterMint](https://lettermint.co/) | GDPR-compliant email service for transactional emails. | 30% OFF for 6 months (`BF2025`) | Now – 5-Dec |
+| 3  | [Mailtrap](https://mailtrap.io/) | Platform for testing and sending reliable emails. | 40% OFF with `TRAP40BF` | 24-Nov – 5-Dec |
+| 4  | [MailerLite](https://www.mailerlite.com/) | Easy email automation and landing pages for startups. | 25% OFF annual plans | 18-Nov – 16-Dec |
+| 5  | [Mailchimp](https://mailchimp.com/) | AI-powered marketing automation platform. | 40% OFF with `MCBF2025` | 25-Nov – 30-Nov |
 
 ## 🔒 Hosting & Security
 
@@ -73,6 +67,17 @@
 | 2  | [Super Monitoring](https://www.supermonitoring.com/) | Tracks uptime, speed, SSL, SEO block issues, and more. | 50% OFF with `SUPERBLACK25` | 24-Nov – 5-Dec |
 | 3  | [Plerdy](https://www.plerdy.com/) | All-in-one CRO & SEO toolkit: heatmaps, analytics, popup forms, etc. | 50% OFF with `plerdyBF2025` | Now – 3-Dec |
 | 4  | [Scalenut](https://www.scalenut.com/) | AI SEO platform for keyword planning, content writing, and optimization. | 60% OFF with `SCALE60BF` | 15-Nov – 1-Dec |
+
+## 🤖 AI Tools
+
+|     | Name 🔗                               | Description 📝                                 | Discount 💸         | Period 🗓️                   |
+|-----|---------------------------------------|-----------------------------------------------|---------------------|-----------------------------|
+| 1  | [DocuWriter](https://www.docuwriter.ai/) | Generate documentation, refactors, and tests from code using AI. | 40% OFF first purchase with `ORXLVNZV` | Now – 1-Dec |
+| 2  | [Meku](https://meku.dev/) | Prompt-based full-stack web app builder powered by AI. | 30% OFF + Free FormBold Starter (`BLFCM2025`) | 18-Nov – 2-Dec |
+| 3  | [AIStarterKit](https://aistarterkit.dev/) | Boilerplate to launch AI apps fast with Next.js and OpenAI. | 30% OFF or Free with SaaSBold | 18-Nov – 22-Dec |
+| 4  | [AymoAI](https://aymo.ai/) | All-in-one workspace with AI to think, write, and collaborate smarter. | 30% OFF Yearly Premium (`BLFCM2025`) | 18-Nov – 2-Dec |
+| 5  | [Dorik](https://dorik.com/) | No-code + AI website builder for landing pages and blogs. | 50% OFF with `BFCM25` | 14-Nov – 3-Dec |
+| 6  | [Warmy](https://www.warmy.io/) | Improve email deliverability with AI-powered warm-up. | 30% OFF with `WARMBF30` | 22-Nov – 4-Dec |
 
 ## 📚 E-Books
 
