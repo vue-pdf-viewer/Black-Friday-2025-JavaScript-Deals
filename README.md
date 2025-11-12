@@ -41,6 +41,7 @@
 | 8   | [TailGrids](https://tailgrids.com/) | 500+ Tailwind CSS components for web apps, e-commerce, dashboards, and more. | 30% OFF with `BLFCM2025` | 18-Nov – 2-Dec |
 | 9   | [FrameBlox](https://www.frameblox.com/) | Complete Framer UI kit with components and design system. | 50% OFF with `BLACKFRIDAY25` | Now – |
 | 10  | [UIDeck](https://uideck.com/) | 100+ templates and UI kits built with Tailwind CSS & Bootstrap. | 60% OFF with `BLFCM2025` | 18-Nov – 2-Dec |
+| 10  | [shadcn/studio](https://shadcnstudio.com/) | Accelerate your project development with ready-to-use, and fully customizable shadcn ui Components, Blocks, UI Kits, Boilerplates, Templates and Themes with AI Tools | 30% OFF with `BFCM30SS` | 24-Nov – 1-Dec |
 
 
 ## 🛠️ Development Tools
