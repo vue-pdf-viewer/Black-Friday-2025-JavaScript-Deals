@@ -64,6 +64,7 @@
 | 4  | [Liquid Web](https://www.liquidweb.com/black-friday-web-hosting-deals/) | Premium managed hosting for mission-critical apps. Offers VPS, dedicated, and cloud hosting with excellent scalability and performance. | Up to 52% OFF | Now – 5-Dec |
 | 5  | [CloudClusters](https://www.cloudclusters.io/black-friday-hosting-deals) | Managed cloud hosting for web apps and databases with support for Node.js, MongoDB, and MySQL. Combines performance with affordability. | Up to 64% OFF | Now – 1-Dec |
 | 6  | [SurferCloud](https://www.surfercloud.com/promos/blackfriday) | Fast and reliable cloud hosting built for developers deploying Jamstack sites, APIs, and scalable web apps. | Up to 40% OFF | Now – |
+| 7 | [iScan.today](https://iscan.today) | Discover Hidden Secrets Worth Thousands. | 50% off on all plans with discount code `ISCANBF25` | Now - 1-Dec |
 
 
 ## 🌐 Web Optimization & Monitoring
