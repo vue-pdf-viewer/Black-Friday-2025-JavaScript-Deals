@@ -76,6 +76,7 @@
 | 4  | [Scalenut](https://www.scalenut.com/) | AI SEO platform for keyword planning, content writing, and optimization. | 60% OFF with `SCALE60BF` | 15-Nov – 1-Dec |
 | 5  | [NitroPack](https://www.marketing.nitropack.io/black-friday) | All-in-one performance optimization platform improving Core Web Vitals, page speed, and SEO. Handles caching, minification, lazy loading, and image optimization seamlessly. | Up to 30% OFF with `CYBERMONTH2025` or `CYBERYEAR2025` | 12-Nov – 7-Dec |
 | 6  | [StatusGator](https://statusgator.com/) | Unified status monitoring tool that aggregates the uptime of all your cloud services in one dashboard. Perfect for tracking outages and downtime across your stack. | 20% OFF monthly and annual Starter plans with `BLACKFRIDAY2025` | 2-Nov – 2-Dec |
+| 7  | [iSsl.today](https://issl.today) | Simple SSL monitoring that alerts you when certificates expire. | 100% off for 1st month with discount code `FREESSL` | Now - 2025-11-30 |
 
 ## 🤖 AI Tools
 
