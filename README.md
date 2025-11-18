@@ -110,6 +110,7 @@
 | 3  | [Mastering Pinia](https://masteringpinia.com/#pricing) | Full deep dive into Vue’s official state management library. Included with Vue School’s Black Friday offer. | - | Now – |
 | 4  | [LabEx](https://labex.io/) | Interactive labs for DevOps, Linux, and Cybersecurity. | 50% OFF (2 yr `2025BF50`), 30% OFF (1 yr `2025BF30`) | 12-Nov – 1-Dec |
 | 5  | [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) | Hands-on DevSecOps training and certification with 100+ guided lab exercises in real-world environments. | 15% OFF all certificates, up to \$500 OFF bundles | Now – |
+| 6  | [CloudBreach](https://cloudbreach.io/blackfriday/) | Advanced Offensive Azure & AWS Security Trainings and Certifications. | 20% off with code: BlackFriday25 | 21-Nov – 8-Dec |
 
 ---
 
