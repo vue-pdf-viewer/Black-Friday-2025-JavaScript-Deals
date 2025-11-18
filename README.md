@@ -88,6 +88,7 @@
 | 4  | [AymoAI](https://aymo.ai/) | All-in-one workspace with AI to think, write, and collaborate smarter. | 30% OFF Yearly Premium (`BLFCM2025`) | 18-Nov – 2-Dec |
 | 5  | [Dorik](https://dorik.com/) | No-code + AI website builder for landing pages and blogs. | 50% OFF with `BFCM25` | 14-Nov – 3-Dec |
 | 6  | [Warmy](https://www.warmy.io/) | Improve email deliverability with AI-powered warm-up. | 30% OFF with `WARMBF30` | 22-Nov – 4-Dec |
+| 7  | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code BLACKFRIDAY (Nov 17 - Dec 7) |
 
 ## 📚 E-Books
 
