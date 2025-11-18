@@ -64,6 +64,10 @@
 | 4  | [Liquid Web](https://www.liquidweb.com/black-friday-web-hosting-deals/) | Premium managed hosting for mission-critical apps. Offers VPS, dedicated, and cloud hosting with excellent scalability and performance. | Up to 52% OFF | Now – 5-Dec |
 | 5  | [CloudClusters](https://www.cloudclusters.io/black-friday-hosting-deals) | Managed cloud hosting for web apps and databases with support for Node.js, MongoDB, and MySQL. Combines performance with affordability. | Up to 64% OFF | Now – 1-Dec |
 | 6  | [SurferCloud](https://www.surfercloud.com/promos/blackfriday) | Fast and reliable cloud hosting built for developers deploying Jamstack sites, APIs, and scalable web apps. | Up to 40% OFF | Now – |
+| 7  | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Create, modify, and deploy exploits on the fly. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime license | Now – |
+| 8  | [Control Pack](https://www.exploitpack.com/products/control-pack) | C2 Framework. Gives you full access to the most advanced and stealthiest post-exploitation C2 framework. | Lifetime license | Now – |
+| 9  | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel Framework. The game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access.  | Lifetime license | Now – |
+
 
 
 ## 🌐 Web Optimization & Monitoring
