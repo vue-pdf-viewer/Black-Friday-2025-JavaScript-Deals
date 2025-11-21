@@ -67,6 +67,7 @@
 | 7  | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Create, modify, and deploy exploits on the fly. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime license | Now – |
 | 8  | [Control Pack](https://www.exploitpack.com/products/control-pack) | C2 Framework. Gives you full access to the most advanced and stealthiest post-exploitation C2 framework. | Lifetime license | Now – |
 | 9  | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack) | Kernel Framework. The game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access.  | Lifetime license | Now – |
+| 10 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
 
 
 
