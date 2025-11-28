@@ -118,6 +118,8 @@
 | 4  | [LabEx](https://labex.io/) | Interactive labs for DevOps, Linux, and Cybersecurity. | 50% OFF (2 yr `2025BF50`), 30% OFF (1 yr `2025BF30`) | 12-Nov – 1-Dec |
 | 5  | [Practical DevSecOps](https://www.practical-devsecops.com/pricing/) | Hands-on DevSecOps training and certification with 100+ guided lab exercises in real-world environments. | 15% OFF all certificates, up to \$500 OFF bundles | Now – |
 | 6  | [CloudBreach](https://cloudbreach.io/blackfriday/) | Advanced Offensive Azure & AWS Security Trainings and Certifications. | 20% off with code: BlackFriday25 | 21-Nov – 8-Dec |
+| 7  | [AIDD](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI through real-world workflows like test generation, code reviews, and repo-aware agents. | 45% OFF all plans | Now – |
+| 8  | [Certificates.dev](https://certificates.dev?friend=VUEPDF) | Official and expert-backed certifications for Vue, Nuxt, React, Angular, and JavaScript. Endorsed by top developers like Evan You and Sébastien Chopin. | 60% OFF all certifications | Now – |
 
 ---
 
